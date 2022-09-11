@@ -28,7 +28,7 @@ This is a solution to the [Project tracking intro component challenge on Fronten
 
 ### Links
 
-- Live Url : 
+- Live Url : https://robertobaiochi.github.io/frontEndMentor-trackingIntro/
 
 ## My process
 
